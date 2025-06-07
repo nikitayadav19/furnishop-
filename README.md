@@ -2,9 +2,6 @@
  
 **Tech Stack:** HTML, CSS, JavaScript  
 **Type:** Front-End Responsive Web Project  
-
-## 🖼️ Preview
-
 Here’s a preview of the FurniShop homepage:
 
 ![FurniShop Home Page Preview](./assets/screenshot.png)
@@ -25,14 +22,6 @@ Here’s a preview of the FurniShop homepage:
 - ✅ Navigation bar with dropdown menu
 - ✅ Smooth scroll and animations
 - ✅ Clean and modern UI design
-
----
-
-## 🖼️ Screenshots
-
-| Home Page | Product Section | Responsive View |
-|----------|-----------------|-----------------|
-| *(Add screenshots here)* |
 
 ---
 
